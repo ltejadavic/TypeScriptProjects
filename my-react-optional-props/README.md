@@ -1,4 +1,4 @@
-This exercise showcases the use of the useState hook in a TypeScript-based React application to manage a simple counter. The component includes buttons to increment and decrement the count, while TypeScript ensures type safety for the state.
+This exercise demonstrates how to create a React component using TypeScript with optional props. It includes an interface with optional name and age properties. If the props are not provided, the component displays a default message.
 
 # React + TypeScript + Vite
 
