@@ -1,3 +1,5 @@
+This exercise showcases the use of the useState hook in a TypeScript-based React application to manage a simple counter. The component includes buttons to increment and decrement the count, while TypeScript ensures type safety for the state.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
