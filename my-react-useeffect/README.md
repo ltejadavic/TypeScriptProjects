@@ -1,3 +1,5 @@
+This exercise illustrates how to use the useEffect hook in React with TypeScript to fetch data from an API when the component mounts. The component manages and displays the loading state and fetched data.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
